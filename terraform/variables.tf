@@ -1,0 +1,3 @@
+variable "self_ip" {
+  
+}
